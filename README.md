@@ -22,7 +22,7 @@
 ### 1. 环境准备
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/wubingheng111/hautuo_rag.git
 cd hautuo_rag
 
 # 安装依赖
